@@ -5,9 +5,9 @@ The first exercises are simple commands in the interactive ruby shell
 
 1. Print "Hello world"
 
-	puts "Hello world"
-	Hello world
-	=> nil
+	$ puts "Hello world"
+	$ Hello world
+	$ => nil
 
 2. For the string "Hello, Ruby", find the index of "Ruby"
 
